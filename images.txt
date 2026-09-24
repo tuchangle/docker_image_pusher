@@ -12,3 +12,4 @@ postgres:13.1-alpine
 openkm/openkm-ce
 mysql:8.0.36
 openkm/openkm-ce:6.3.9
+tomcat:9.0-jdk8
